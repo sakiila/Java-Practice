@@ -1,0 +1,22 @@
+
+s
+java:S1192Q"]Use already-defined constant 'QUERY_ALL_USERS_DML_SQL' instead of duplicating its value here.(‡†–œ
+E
+java:S3740{"/Provide the parametrized type for this generic.(ŒÑÜÚ
+j
+java:S2095x"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ðúÿÿÿÿ
+V	java:S125d"<This block of commented-out lines of code should be removed.(›Ý»€þÿÿÿÿ
+~
+java:S3008 "cRename this field "COMMON_EXCEPTION_HANDLER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¿¨Ïøÿÿÿÿ
+J
+java:S3740}"/Provide the parametrized type for this generic.(‚‡È»ÿÿÿÿÿ
+F
+java:S3740œ"/Provide the parametrized type for this generic.(„²×§
+K
+java:S3740š"/Provide the parametrized type for this generic.(‹÷¦‹üÿÿÿÿ
+E
+java:S3740Y"/Provide the parametrized type for this generic.(äŠû‰
+H
+java:S1135J"2Complete the task associated to this TODO comment.(…ïœ†
+i
+java:S1602I"SRemove useless curly braces around statement and then remove useless return keyword(úäó
